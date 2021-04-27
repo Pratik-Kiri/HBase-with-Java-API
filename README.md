@@ -1,2 +1,2 @@
 # HBase-with-Java-API
-HBase CRUD operations using JAVA API
+HBase all basic operations using JAVA API
